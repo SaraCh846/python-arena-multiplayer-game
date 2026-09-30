@@ -1,6 +1,7 @@
 # Python Arena - Multiplayer Network Game
 
 A two-player networked snake game developed using Python, Pygame, TCP sockets, and JSON.
+Developed as a three-person team project.
 
 ## My Contributions
 - Worked mainly on gameplay and server-side behavior, including player movement, collisions, health changes, and end-game conditions.
